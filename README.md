@@ -15,7 +15,7 @@ As Co-Founder and Team Lead, I coordinated product development, presentations, o
 Many powered mobility solutions are expensive and inaccessible to individuals who require affordable alternatives for daily movement and independence.
 PushPals aims to bridge this gap by exploring scalable and cost-effective assistive technology solutions that can be adapted across different user needs and environments.
 
-![Demo GIF](videos/pushpalvideo.gif)
+![Demo GIF](images/pushpalvideo.gif)
 
 ## My Role
 
