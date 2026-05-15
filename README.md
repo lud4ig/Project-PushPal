@@ -41,7 +41,8 @@ Responsibilities included:
 - Awarded **Certificate of Excellence** as Finalists in **Create4Good 2025**, a competition for emerging social enterprises
 - Featured in **M3 Project Stem-Up**
 - Featured in **Berita Harian**
-![PushPals Prototype](images/pushpalbh.jpg)
+---
+![PushPals Prototype](images/pushpalbh.png)
 
 ### Showcases
 
