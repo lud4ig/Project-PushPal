@@ -30,6 +30,9 @@ Responsibilities included:
 - Engaging with stakeholders and evaluators
 - Overseeing prototype iterations and user-focused improvements
 - Managing outreach and public presentations
+---
+![PushPals Prototype](images/pushpalhafiz.jpg)
+
 
 ---
 
