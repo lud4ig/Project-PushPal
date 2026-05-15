@@ -119,3 +119,6 @@ prototype-designs/
 ## Team
 
 PushPals was developed through collaborative teamwork focused on creating meaningful and accessible solutions for mobility challenges.
+<p align="center">
+  <img src="images/pushpalteam.jpg" width="600"/>
+</p>
