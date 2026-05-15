@@ -18,7 +18,7 @@ PushPals aims to bridge this gap by exploring scalable and cost-effective assist
 
 <p align="center">
   <video width="600" controls>
-    <source src="videos/pushpalvideo.mp4" type="video/mp4">
+    <source src="videos/pushpalvideo.gif" type="video/gif">
   </video>
 </p>
 
