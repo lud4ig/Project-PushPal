@@ -16,13 +16,11 @@ Many powered mobility solutions are expensive and inaccessible to individuals wh
 
 PushPals aims to bridge this gap by exploring scalable and cost-effective assistive technology solutions that can be adapted across different user needs and environments.
 
----
 <p align="center">
   <video width="600" controls>
     <source src="videos/pushpalvideo.mp4" type="video/mp4">
   </video>
 </p>
----
 
 ## My Role
 
