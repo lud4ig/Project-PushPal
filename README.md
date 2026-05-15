@@ -31,7 +31,9 @@ Responsibilities included:
 - Overseeing prototype iterations and user-focused improvements
 - Managing outreach and public presentations
 ---
-![PushPals Prototype](images/pushpalhafiz.jpg)
+<p align="center">
+  <img src="images/pushpalhafiz.jpg" width="600"/>
+</p>
 
 
 ---
@@ -46,7 +48,7 @@ Responsibilities included:
 - Featured in **Berita Harian**
 ---
 <p align="center">
-  <img src="images/pushpalbh.png" width="400"/>
+  <img src="images/pushpalbh.png" width="600"/>
 </p>
 
 ### Showcases
