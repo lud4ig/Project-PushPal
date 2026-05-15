@@ -45,7 +45,9 @@ Responsibilities included:
 - Featured in **M3 Project Stem-Up**
 - Featured in **Berita Harian**
 ---
-![PushPals Prototype](images/pushpalbh.png)
+<p align="center">
+  <img src="images/pushpalbh.png" width="400"/>
+</p>
 
 ### Showcases
 
