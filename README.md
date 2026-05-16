@@ -21,11 +21,9 @@ PushPals aims to bridge this gap by exploring scalable and cost-effective assist
 
 ## My Role
 
-### Co-Founder & Team Lead
+### Co-Founder 
 
 Responsibilities included:
-
-- Leading overall project direction and development
 - Coordinating team collaboration and task management
 - Presenting the project during showcases and competitions
 - Engaging with stakeholders and evaluators
